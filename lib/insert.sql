@@ -14,10 +14,3 @@ INSERT into bears(id, name, age, gender, color, temperament, alive)
     VALUES(7, "Paddington", 4, "male", "brown", "curious", 1)
 INSERT into bears(id, name, age, gender, color, temperament, alive)
     VALUES(8, "Bernstein", 40, "male", "brown", "sweet", 0)
-    
-
-
-
-    
-INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("John", 11, 3.4, 3);
